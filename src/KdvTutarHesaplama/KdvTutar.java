@@ -10,7 +10,6 @@ public class KdvTutar {
         System.out.print("Tutarı giriniz: ");
         tutar= inp.nextDouble();
         kdv= (tutar<=1000 && tutar>=0) ? (tutar*0.18) : (tutar*0.08);
-
         System.out.println("Kdv tutarı: " +kdv+ "TL");
         System.out.println("Toplam tutar: " +(kdv+tutar)+ "TL");
 
