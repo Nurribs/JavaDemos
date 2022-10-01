@@ -1,8 +1,8 @@
-package Giris;
+package Examples;
 
 import java.util.Scanner;
 
-public class ortalamaHesaplama {
+public class dersOrtalamaHesaplama {
     public static void main(String[] args) {
         int mat,fizik,kimya,turkce,tarih;
         Scanner inp=new Scanner(System.in);
