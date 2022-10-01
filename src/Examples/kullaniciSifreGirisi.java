@@ -12,7 +12,7 @@ public class kullaniciSifreGirisi {
         System.out.print("Şifrenizi giriniz: ");
         password=inp.nextLine();
 
-        if (userName.equals("patika") && password.equals("java123")){
+        if (userName.equals("aysenur") && password.equals("nur123")){
             System.out.println("Giriş yaptınız !");
         }
         else{
