@@ -49,18 +49,6 @@ public class cinZodyagiHesap {
         else {
             System.out.println("Hatalı giriş yaptınız.");
         }
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
 
