@@ -4,15 +4,18 @@ import java.util.*;
 
 public class Ders1 {
     public static void main(String[] args) {
-        int birinciSayi,ikinciSayi;
-        Scanner klavye = new Scanner(System.in);
+        int a=1;
 
-        System.out.print("ilk sayi: ");
-        birinciSayi=klavye.nextInt();
-        System.out.println("iki sayi giriniz: ");
-        ikinciSayi=klavye.nextInt();
-
-        System.out.println("Birinci sayi: " +birinciSayi);
-        System.out.println("ikinci sayi: " +ikinciSayi);
+       switch (a){
+           case 1: System.out.println("Java2"); break;
+           case 7: System.out.println("Java");
+           break;
+           case 8: ;
+           case 9: System.out.println("101");
+           break;
+           case 10: System.out.println("Patika");
+           break;
+           default: System.out.println("Dev");
+       }
     }
 }
