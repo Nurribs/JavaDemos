@@ -10,6 +10,7 @@ public class kuvvetHesaplama {
         for (int i=1; i<=n; i*=4){
             System.out.println("i= " +i);
         }
+        System.out.println("\n");
         for (int j=1; j<=n; j*=5){
             System.out.println("j= "+j);
         }
