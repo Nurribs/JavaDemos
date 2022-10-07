@@ -20,7 +20,6 @@ public class overloading {
    }
 
     public static void main(String[] args) {
-
         print();
         print(12);
         print(12.0);
