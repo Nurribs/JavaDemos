@@ -66,9 +66,6 @@ public class gelismisHesapMakinesi {
         System.out.println("Alan: " +(b*a));
     }
 
-
-
-
     public static void main(String[] args) {
         Scanner scan=new Scanner(System.in);
         int select;
