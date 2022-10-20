@@ -26,7 +26,6 @@ public class palindromSayiBulma {
             return false;
         }
     }
-
     public static void main(String[] args) {
 
         System.out.println(isPalindrom(568));

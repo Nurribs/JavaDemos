@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Giris.iml" filepath="$PROJECT_DIR$/Giris.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaDemos.iml" filepath="$PROJECT_DIR$/JavaDemos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP-Java/OOP-Java.iml" filepath="$PROJECT_DIR$/OOP-Java/OOP-Java.iml" />
     </modules>
   </component>
 </project>

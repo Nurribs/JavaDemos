@@ -3,12 +3,11 @@ import java.util.Scanner;
 public class usHesabi {
     static int usAlma(int a, int b) {
 
-        if(a == 1 | b == 0)
+        if(a == 1 || b == 0)
             return 1;
 
         return usAlma(a,b-1) * a;
     }
-
     public static void main(String[] args) {
 
         Scanner inp=new Scanner(System.in);
